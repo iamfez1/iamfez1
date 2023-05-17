@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamfez1
 - 👀 I’m interested in in DEVOPS CI/CD Automations
 - 🌱 I’m currently working as Devops Engineer
-- 💞️ I’m looking to collaborate on Devops tools and much more
+- 💞️ I’m looking to collaborate on Devops tools and SRE,much more
 - 📫 How to reach me Fezigha@hotmail.com
 
 <!---
